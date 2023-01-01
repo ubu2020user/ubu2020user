@@ -1,17 +1,21 @@
-- 👋 Hi, I’m @ubu2020user
-- 👀 I’m interested in Knowledge / Fun / BreakTheGamePhysics ...
-- 🌱 I’m currently learning Android 
-  -   & React 
-  -   & Personal Development 
-  -   & How to Learn C# 
-  -   & AI
-  -   & What makes fun!
-  -   & Maybe how to cheat ;) 
-  -   & ...
-- 💞️ I’m looking to collaborate on my projects? ...
-- 📫 How to reach me ...
-
-<!---
-ubu2020user/ubu2020user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++ 👋 Hi, I’m @Dan
++ 👀 I’m interested in Knowledge (Personal Development) / Creating Art (Development) / Thinking different ...
++ 🌱 I’m currently learning
+  +   Flutter
+  +   & Personal Development 
+  +   & AI
+  +   & What makes fun!
+  +   & Maybe how to cheat ;) 
+  +   & ...
++ 🌴 What I used so far
+  +  Android
+  +  Flutter
+  +  React (& Ionic)
+  +  C#, Java & Kotlin, Ts & Js
+  +  MySql & MSSQL
+  +  KNIME
+  +  Unity
+  +  R, C, C++, Python (little)
++ 💞️ I’m looking to collaborate on my projects? ...
++ 📫 How to reach me ... (HitMe)
++ 🧭 Latest Project: https://hitme.fans
