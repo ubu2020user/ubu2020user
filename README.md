@@ -7,7 +7,7 @@
   +   & What makes fun!
   +   & Maybe how to cheat ;) 
   +   & ...
-+ 🌴 What I used so far
++ 🌴 What I used or did so far
   +  Android
   +  Flutter
   +  React (& Ionic)
@@ -15,6 +15,7 @@
   +  MySql & MSSQL
   +  KNIME
   +  Unity
+  +  AI
   +  R, C, C++, Python (little)
 + 💞️ I’m looking to collaborate on my projects? ...
 + 📫 How to reach me ... (HitMe)
